@@ -19,5 +19,11 @@ Tudo isso utilizando apenas os recursos nativos da linguagem **Python**.
 ## 🚀 Tecnologias Utilizadas
 
 - 🐍 **Python 3.10+**
--
+
+## 📬 Contato
+GitHub: @JGueedeS
+
+E-mail: je_guedes10@hotmail.com
+
+LinkedIn: [linkedin.com/in/jeffersonguedes](https://www.linkedin.com/in/jeffersongueedes/)
 
